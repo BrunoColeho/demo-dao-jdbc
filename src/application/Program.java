@@ -8,6 +8,9 @@ import model.dao.SellerDao;
 import model.entities.Department;
 import model.entities.Seller;
 import java.util.Scanner;
+
+//This program change Sellers attributes
+
 public class Program {
 
 	public static void main(String[] args) {
